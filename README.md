@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="card">
-    <img src="./" alt="Foto de perfil">
+    <img src="./1000011295.jpg" alt="">
     <h1>Ewerton Guilherme</h1>
     <p>
       Olá! Meu nome é Ewerton e este é meu site pessoal.  
