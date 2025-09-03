@@ -1,1 +1,19 @@
 # ewertong
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="card">
+    <img src="./" alt="Foto de perfil">
+    <h1>Ewerton Guilherme</h1>
+    <p>
+      Olá! Meu nome é Ewerton e este é meu site pessoal.  
+      Gosto de aprender coisas novas, explorar tecnologia e desenvolver projetos que tragam impacto positivo.  
+      Seja bem-vindo!
+    </p>
+  </div>
+</body>
+</html>
