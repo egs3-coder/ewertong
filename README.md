@@ -7,12 +7,10 @@
 </head>
 <body>
   <div class="card">
-    <img src="./1000011295.jpg" alt="">
+    <img src="./1000011295.jpg" alt="" width = "100px">
     <h1>Ewerton Guilherme</h1>
     <p>
-      Olá! Meu nome é Ewerton e este é meu site pessoal.  
-      Gosto de aprender coisas novas, explorar tecnologia e desenvolver projetos que tragam impacto positivo.  
-      Seja bem-vindo!
+      Sempre estou em busca de conhecimento para aprimorar minhas habilidades, agregar ainda mais valor à empresae alcançar novos patamares. Com uma postura proativa, busco constantemente novas oportunidades para aprender e aplicar técnicas de otimização
     </p>
   </div>
 </body>
